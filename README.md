@@ -24,5 +24,4 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [linkedin.com/in/brittney-barnwell](https://linkedin.com/in/brittney-barnwell)
 - School Email: bb2086@princeton.edu
