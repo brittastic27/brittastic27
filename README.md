@@ -1,9 +1,10 @@
-# Hi there, I’m Brittney 👋
+# Hi, I’m Brittney 👋
 
 🎓 Computer Science sophomore at Princeton University  
 🎨 Interested in HCI, UI/UX design, product design, frontend & full-stack development, and video games  
 🧩 I enjoy building interactive, user-centered software and learning by doing
 🎯 Fun fact: I spent summer '25 in Tokyo, Japan working at an IT consulting and web services company (I also explored, ate a lot of 7/11, and learned a bit of basic Japanese)
+
 ---
 
 ## 🛠️ Skills & Tools
@@ -22,6 +23,6 @@
   
 ---
 
-## 📫 Connect w/ Me
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+## 📫 Connect With Me
+- LinkedIn: [linkedin.com/in/brittney-barnwell](https://linkedin.com/in/brittney-barnwell)
 - School Email: bb2086@princeton.edu
