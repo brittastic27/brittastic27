@@ -14,7 +14,7 @@
 - **Languages:** JavaScript, Java, Python, R, C, Swift
 - **Frontend:** HTML, CSS, SwiftUI  
 - **Backend:** Flask, basic APIs, authentication, local databases (SQL)  
-- **Tools:** Git/GitHub, XCode  
+- **Tools:** Git/GitHub, XCode, VSCode, Cursor, Intellij  
 - **Courses:** APCSA, APCSP, Intro to Programming, Algorithms & Data Structures, Intro to Programming Systems, Reasoning about Computation
 
 ---
