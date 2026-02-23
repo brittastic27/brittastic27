@@ -1,4 +1,4 @@
-# Hi, I’m Brittney 👋
+# Hi, I’m Brittney 👋🏾
 
 🎓 Computer Science sophomore at Princeton University  
 
