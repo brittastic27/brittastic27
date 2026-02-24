@@ -1,6 +1,6 @@
 # Hi, I’m Brittney 👋🏾
 
-🎓 Computer Science sophomore at Princeton University  
+🎓 Computer Science sophomore at Princeton University  w/ minors in Cognitive Science and Computing, Society, & Policy
 
 🎨 Interested in HCI, UI/UX design, product design, frontend & full-stack dev, web & mobile dev, and video games  
 
