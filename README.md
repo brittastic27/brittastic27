@@ -17,6 +17,10 @@
 - **Tools:** Git/GitHub, XCode, VSCode, Cursor, Intellij  
 - **Courses:** APCSA, APCSP, Intro to Programming (Fundamentals of CS), Algorithms & Data Structures, Intro to Programming Systems, Discrete Math
 
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat"/>
+ </p> 
 ---
 
 ## 📫 Connect With Me
