@@ -36,7 +36,6 @@
 <p>
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat"/>
   <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat"/>
 </p>
 
