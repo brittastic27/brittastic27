@@ -17,19 +17,25 @@
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat"/>
   <img src="https://img.shields.io/badge/-C-00599C?logo=cplusplus&logoColor=white&style=flat"/>
-  <img src="https://img.shields.io/badge/-HTML/CSS-E34F26?logo=html5&logoColor=white&style=flat"/>
+ </p> 
+- **Frontend:** HTML, CSS, SwiftUI  
+<p>
+    <img src="https://img.shields.io/badge/-HTML/CSS-E34F26?logo=html5&logoColor=white&style=flat"/>
+</p>
+- **Backend:** Flask, basic APIs, authentication, local databases (SQL)  
+<p>
   <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat"/>
+</p>
+- **Tools:** Git/GitHub, XCode, VSCode, Cursor, Intellij  
+<p>
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat"/>
-  <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat"/>
-  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat"/>
-  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat"/>
- </p> 
-- **Frontend:** HTML, CSS, SwiftUI  
-- **Backend:** Flask, basic APIs, authentication, local databases (SQL)  
-- **Tools:** Git/GitHub, XCode, VSCode, Cursor, Intellij  
+</p>
 - **Courses:** APCSA, APCSP, Intro to Programming (Fundamentals of CS), Algorithms & Data Structures, Intro to Programming Systems, Discrete Math
 
 
