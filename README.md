@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat"/>
 </p>
 
-**Courses:** APCSA, APCSP, Intro to Programming (Fundamentals of CS), Algorithms & Data Structures, Intro to Programming Systems, Discrete Math
+** Relevant Courses:** APCSA, APCSP, Information Technology Service Management,  Intro to Programming (Fundamentals of CS), Algorithms & Data Structures, Intro to Programming Systems, Discrete Math, Intro to ML, Advanced Programming Techniques, Computer Architecture & Organization
 
 
 ---
