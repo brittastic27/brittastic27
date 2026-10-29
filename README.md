@@ -11,7 +11,7 @@
 ---
 
 ## 🛠️ Skills & Tools
-**Languages:** JavaScript, Java, Python, R, C, Swift
+**Languages:** JavaScript, Java, Python, R, C/C++, Swift
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat"/>
@@ -39,10 +39,10 @@
   <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat"/>
 </p>
 
-** Relevant Courses:** APCSA, APCSP, Information Technology Service Management,  Intro to Programming (Fundamentals of CS), Algorithms & Data Structures, Intro to Programming Systems, Discrete Math, Intro to ML, Advanced Programming Techniques, Computer Architecture & Organization
+**Relevant Courses:** APCSA, APCSP, Information Technology Service Management,  Intro to Programming (Fundamentals of CS), Algorithms & Data Structures, Intro to Programming Systems, Discrete Math, Linear Algebra, Intro to ML, Advanced Programming Techniques, Computer Architecture & Organization
 
 
 ---
 
 ## 📫 Connect With Me
-- School Email: bb2086@princeton.edu
+- University Email: bb2086@princeton.edu
